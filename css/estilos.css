@@ -16,10 +16,10 @@ font-size:12px;
 }
 
 
-/*Formatação do Paragrafo, do exemplo da Linguagem jQuery.*/
+/*Formatação do Paragrafo, do exemplo da Linguagem JavaScript.*/
 p{margin-bottom:10px;}
 pre {
-background: #FEFFAF;
+background: #afd4ff;
 color: #000;
 line-height: 18px;
 margin-bottom: 18px;
